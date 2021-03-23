@@ -1,4 +1,4 @@
-Url Shortener is a tool that can be used to shorten your lenghty urls and links.
+Url Shortener is a tool that can be used to shorten your lengthy urls and links.
 
 How to run this:
 **Make sure you have PIP and Python 3 already installed on your system**
